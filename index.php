@@ -148,6 +148,8 @@ if(isset($_POST['Added'])){
         </div>
     </section>
 
+    <p>The End!</p>
+
 
 
     <script src="js/jquery-3.3.1.min.js"></script>
